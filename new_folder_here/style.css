@@ -1,0 +1,64 @@
+/*this CSS box rule imagines all elements as boxes with differences in size that can be individually adjusted*/
+<style>
+   
+body {
+       background-color: black; 
+    }
+
+    h1 {
+        color: #A64AC9; 
+    }
+
+    #container {
+        background-color: white; 
+        color: black; 
+        text-align: center; 
+        width: 50% ;
+        margin: 20px auto;  
+        padding: 20px; 
+        font-family: 'Asap', sans-serif; 
+    }
+    .uppercase {
+        text-transform: uppercase;
+    }
+
+.picture {
+    width: 70%
+}
+
+.left-col {
+    float: left;
+    width: 50%; 
+}
+
+.right-col {
+    float: right; 
+    width: 50% ; 
+    padding: 30px 0px 0px 
+}
+
+.clearfix {
+    clear: both; 
+}
+
+.github{
+   color: #A64AC9; 
+    text-decoration: none; 
+    border-radius: 10px;
+    border-width: 2px;
+    border-style: solid;
+    padding: 10px; 
+}
+
+.lowerlevel {
+     background-color: white;
+     font: black; 
+     margin: 20px ; 
+     padding: 10px ; 
+}
+
+a {
+    font: #A64AC9; 
+}
+
+</style>
