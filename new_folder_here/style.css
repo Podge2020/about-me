@@ -1,8 +1,6 @@
 /*this CSS box rule imagines all elements as boxes with differences in size that can be individually adjusted*/
-<style>
-   
 body {
-       background-color: black; 
+       background-color: black;  
     }
 
     h1 {
@@ -60,5 +58,3 @@ body {
 a {
     font: #A64AC9; 
 }
-
-</style>
